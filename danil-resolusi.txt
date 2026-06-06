@@ -3,4 +3,4 @@ Menamatkan Playlist Belajar Git & Github
 Belajar Bahasa Inggris
 Belajar Pemograman secara konsisten
  *Belajar laravel
- * dari video siapapun
+ *Dari video sandika galih
